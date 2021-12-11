@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab5ca786-474f-4e4e-9f70-c27755a50bce" name="Default Changelist" comment="Counter method edited. ( Small test passed )" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="c0721726-72cc-442a-85b8-bf5d1918c7a9" />
+        <option name="url" value="https://github.com/acf-athletics/machine-learning.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sx1y9pkWCMekr046kxPFKZedTu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.live_prediction_demo">
+    <configuration name="CamDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="machine-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/CamDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gym_predict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="machine-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gym_predict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="live_prediction_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="machine-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/live_prediction_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="live_test3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="machine-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/live_test3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="necro" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="machine-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/necro.py" />
+      <option name="PARAMETERS" value="--inputPath $USER_HOME$/trainingData/test_training_data" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="webapplive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="machine-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/webapplive.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.live_prediction_demo" />
+        <item itemvalue="Python.live_test3" />
+        <item itemvalue="Python.gym_predict" />
+        <item itemvalue="Python.webapplive" />
+        <item itemvalue="Python.CamDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab5ca786-474f-4e4e-9f70-c27755a50bce" name="Default Changelist" comment="" />
+      <created>1621799678859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621799678859</updated>
+      <workItem from="1621799680721" duration="1514000" />
+      <workItem from="1621878593361" duration="13473000" />
+      <workItem from="1621923908540" duration="6392000" />
+      <workItem from="1622143101595" duration="1756000" />
+      <workItem from="1622313646592" duration="2550000" />
+      <workItem from="1622396406620" duration="1759000" />
+      <workItem from="1622542959773" duration="385000" />
+      <workItem from="1623094183284" duration="50000" />
+      <workItem from="1623951448417" duration="57000" />
+      <workItem from="1626349450807" duration="599000" />
+    </task>
+    <task id="LOCAL-00001" summary="Necro.py rearranged.">
+      <created>1621895659598</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621895659599</updated>
+    </task>
+    <task id="LOCAL-00002" summary="path fixed.">
+      <created>1621895709355</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621895709355</updated>
+    </task>
+    <task id="LOCAL-00003" summary="method name fixed.">
+      <created>1621895768489</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621895768489</updated>
+    </task>
+    <task id="LOCAL-00004" summary="train test split method added.">
+      <created>1621929844700</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1621929844700</updated>
+    </task>
+    <task id="LOCAL-00005" summary="workin on livecam..">
+      <created>1622406212435</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622406212435</updated>
+    </task>
+    <task id="LOCAL-00006" summary="workin on livecam demo">
+      <created>1622547487124</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622547487124</updated>
+    </task>
+    <task id="LOCAL-00007" summary="workin on livecam demo&#10;split parts of functioon.&#10;prework for streamlit web app.">
+      <created>1622572847364</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1622572847364</updated>
+    </task>
+    <task id="LOCAL-00008" summary="live_prediciton.py demo completed. Change inputs ((output_path and model_name variables)) and run file to predict with cam">
+      <created>1622581230452</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1622581230452</updated>
+    </task>
+    <task id="LOCAL-00009" summary="live_prediction no more saving all frames.">
+      <created>1622661014236</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1622661014236</updated>
+    </task>
+    <task id="LOCAL-00010" summary="performance bug fixed. model loading out of the loop now.&#10;&#10;All images are processing at ram now.">
+      <created>1622668128049</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1622668128049</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Demo of wep app for deploying model is ready.&#10;You can upload your model for getting predictions and skeleton picture.&#10;&#10;For running streamlit wep app , run command below on Pycharm Terminal.&#10; &#10;streamlit run &quot;ABSOLUT PATH of wepApp_demo.py&quot;">
+      <created>1622755589436</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1622755589436</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Demo of wep app for deploying model is ready.&#10;You can upload your model for getting predictions and skeleton picture.&#10;&#10;For running streamlit wep app , run command below on Pycharm Terminal.&#10; &#10;streamlit run &quot;ABSOLUT PATH of wepApp_demo.py&quot;">
+      <created>1622755654531</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1622755654531</updated>
+    </task>
+    <task id="LOCAL-00013" summary="live_prediction_demo evolved to object oriented programming structure.&#10;&#10;In wep app demo , you can choose model by radio.&#10;Saving shot function completed.You can save shot and give a name for it.&#10;&#10;to work wep app , simply write &quot;streamlit run &quot;ABSOLUTE PATH OF wepAPP_demo.py HERE&quot;&quot;&#10;&#10;EXAMPLE: streamlit run  &quot;/home/basar/Documents/GitHub/machine-learning/src/wepApp_demo.py&quot;">
+      <created>1622930882483</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1622930882483</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Counter method edited. ( Small test passed )">
+      <created>1623099279906</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1623099279906</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="Necro.py rearranged." />
+    <MESSAGE value="path fixed." />
+    <MESSAGE value="method name fixed." />
+    <MESSAGE value="train test split method added." />
+    <MESSAGE value="workin on livecam.." />
+    <MESSAGE value="workin on livecam demo" />
+    <MESSAGE value="workin on livecam demo&#10;split parts of functioon.&#10;prework for streamlit web app." />
+    <MESSAGE value="live_prediciton.py demo completed. Change inputs ((output_path and model_name variables)) and run file to predict with cam" />
+    <MESSAGE value="live_prediction no more saving all frames." />
+    <MESSAGE value="performance bug fixed. model loading out of the loop now.&#10;&#10;All images are processing at ram now." />
+    <MESSAGE value="Demo of wep app for deploying model is ready.&#10;You can upload your model for getting predictions and skeleton picture.&#10;&#10;For running streamlit wep app , run command below on Pycharm Terminal.&#10; &#10;streamlit run &quot;ABSOLUT PATH of wepApp_demo.py&quot;" />
+    <MESSAGE value="live_prediction_demo evolved to object oriented programming structure.&#10;&#10;In wep app demo , you can choose model by radio.&#10;Saving shot function completed.You can save shot and give a name for it.&#10;&#10;to work wep app , simply write &quot;streamlit run &quot;ABSOLUTE PATH OF wepAPP_demo.py HERE&quot;&quot;&#10;&#10;EXAMPLE: streamlit run  &quot;/home/basar/Documents/GitHub/machine-learning/src/wepApp_demo.py&quot;" />
+    <MESSAGE value="Counter method edited. ( Small test passed )" />
+    <option name="LAST_COMMIT_MESSAGE" value="Counter method edited. ( Small test passed )" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="os.listdir(dir_path)" language="Python" />
+        <watch expression="os.path.abspath(input_path)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
